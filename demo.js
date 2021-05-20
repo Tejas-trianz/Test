@@ -1,3 +1,5 @@
 const demo = () => {
-    console.log("heloo world");
+    console.log("hello world");
 }
+
+demo();
